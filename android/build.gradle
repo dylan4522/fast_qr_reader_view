@@ -35,7 +35,7 @@ android {
     dependencies {
         api 'androidx.appcompat:appcompat:1.0.0'
         api 'androidx.annotation:annotation:1.0.0'
-        api 'com.google.firebase:firebase-ml-vision:19.0.3'
-        api 'com.google.firebase:firebase-core:16.0.8'
+        api 'com.google.firebase:firebase-ml-vision:20.0.0'
+        api 'com.google.firebase:firebase-core:16.0.9'
     }
 }
